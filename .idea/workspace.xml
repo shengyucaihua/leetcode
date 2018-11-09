@@ -15,11 +15,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Leetcode_14_longestCommonPrefix.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Leetcode_14_longestCommonPrefix.py">
+      <file leaf-file-name="Leetcode387_firstUniqChar.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Leetcode387_firstUniqChar.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            <state relative-caret-position="180">
+              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -39,12 +39,13 @@
       <list>
         <option value="$PROJECT_DIR$/leetcdoe13.py" />
         <option value="$PROJECT_DIR$/Leetcode_14_longestCommonPrefix.py" />
+        <option value="$PROJECT_DIR$/Leetcode387_firstUniqChar.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="103" />
-    <option name="y" value="70" />
+    <option name="x" value="73" />
+    <option name="y" value="143" />
     <option name="width" value="1920" />
     <option name="height" value="914" />
   </component>
@@ -84,7 +85,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Leetcode_14_longestCommonPrefix">
+  <component name="RunManager" selected="Python.Leetcode387_firstUniqChar">
     <configuration default="false" name="leetcdoe13" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,6 +116,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode_14_longestCommonPrefix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Leetcode387_firstUniqChar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode387_firstUniqChar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -261,14 +279,16 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.leetcdoe13" />
       <item index="1" class="java.lang.String" itemvalue="Python.Leetcode_14_longestCommonPrefix" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Leetcode387_firstUniqChar" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.Leetcode_14_longestCommonPrefix" />
-        <item index="1" class="java.lang.String" itemvalue="Python.leetcdoe13" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.Leetcode387_firstUniqChar" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Leetcode_14_longestCommonPrefix" />
+        <item index="2" class="java.lang.String" itemvalue="Python.leetcdoe13" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +306,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="103" y="70" width="1920" height="914" extended-state="1" />
+    <frame x="73" y="143" width="1920" height="914" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -330,6 +350,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode387_firstUniqChar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
           <folding />
         </state>
       </provider>
