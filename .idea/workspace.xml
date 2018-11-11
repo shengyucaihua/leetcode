@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e17f46b-475d-416c-8453-e6ea3c6a28ea" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Leetcode434_countSegments.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Leetcode43_multiply.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,11 +68,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Leetcode434_countSegments.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Leetcode434_countSegments.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Leetcode434_countSegments.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Leetcode43_multiply.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Leetcode43_multiply.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -104,12 +114,13 @@
         <option value="$PROJECT_DIR$/Leetcode71_simplifyPath.py" />
         <option value="$PROJECT_DIR$/Leetcode345_reverseVowels.py" />
         <option value="$PROJECT_DIR$/Leetcode434_countSegments.py" />
+        <option value="$PROJECT_DIR$/Leetcode43_multiply.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="780" />
-    <option name="y" value="158" />
+    <option name="x" value="406" />
+    <option name="y" value="39" />
     <option name="width" value="1920" />
     <option name="height" value="914" />
   </component>
@@ -159,24 +170,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Leetcode434_countSegments">
-    <configuration default="false" name="Leetcode824_toGoatLatin" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode824_toGoatLatin.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Leetcode43_multiply">
     <configuration default="false" name="Leetcode916_wordSubsets" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -241,6 +235,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode434_countSegments.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Leetcode43_multiply" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode43_multiply.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -388,19 +399,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Leetcode824_toGoatLatin" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Leetcode916_wordSubsets" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Leetcode71_simplifyPath" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Leetcode345_reverseVowels" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Leetcode434_countSegments" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Leetcode916_wordSubsets" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Leetcode71_simplifyPath" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Leetcode345_reverseVowels" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Leetcode434_countSegments" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Leetcode43_multiply" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Leetcode434_countSegments" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Leetcode345_reverseVowels" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Leetcode71_simplifyPath" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Leetcode916_wordSubsets" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Leetcode824_toGoatLatin" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Leetcode43_multiply" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Leetcode434_countSegments" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Leetcode345_reverseVowels" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Leetcode71_simplifyPath" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Leetcode916_wordSubsets" />
       </list>
     </recent_temporary>
   </component>
@@ -418,7 +429,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="780" y="158" width="1920" height="914" extended-state="0" />
+    <frame x="406" y="39" width="1920" height="914" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25239617" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -550,6 +561,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode43_multiply.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
           <folding />
         </state>
       </provider>
